@@ -15,7 +15,7 @@ def dolar(numero):
 
 
 
-n=float(input("Digite um valor "))
+n=float(input("Digite um valor em Reais R$ "))
 
 resultado=dolar(n)
 

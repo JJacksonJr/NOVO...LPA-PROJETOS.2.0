@@ -17,11 +17,11 @@ def delta(a,b,c):
 
 
 
-a_=int(input("Digite um valor "))
+a_=int(input("Digite um valor de A "))
 
-b_=int(input("Digite um valor "))
+b_=int(input("Digite um valor B  "))
 
-c_=int(input("Digite um valor "))
+c_=int(input("Digite um valor C "))
 
 reposta=delta(a_,b_,c_)
 

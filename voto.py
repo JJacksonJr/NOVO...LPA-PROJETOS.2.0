@@ -10,7 +10,7 @@ def voto(Ano_nascimento):
 
     
 
-    if idade >18 and idade <=75:
+    if idade >=18 and idade <=75:
 
         print(f" Com {idade} anos :  pode votar ")
 

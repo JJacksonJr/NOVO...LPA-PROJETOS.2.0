@@ -4,7 +4,7 @@ os.system("cls")
 
 
 
-def fatorial(numero,show):
+def fatorial(numero):
 
     f=1
 
@@ -23,7 +23,7 @@ def fatorial(numero,show):
 
 n=int(input(" Digite um numero "))
 
-fatorial(n)
+Resultado=fatorial(n)
 
-print(fatorial(n),show=True)
+print(f" {Resultado}")
 

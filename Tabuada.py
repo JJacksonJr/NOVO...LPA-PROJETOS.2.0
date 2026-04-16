@@ -21,8 +21,6 @@ def tabuada(multi):
 
 while True:
     
-    
+    n=int(input(" Digite um numero "))
 
-    tabuada(10)
-
-    
+    tabuada(n)

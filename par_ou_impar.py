@@ -18,11 +18,6 @@ def par_ou_impar(numero):
 
 
 
-
-
-
-
-
 numero_1=int(input(" Digite um numero"))
 
 
